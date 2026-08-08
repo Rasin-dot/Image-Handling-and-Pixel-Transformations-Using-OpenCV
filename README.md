@@ -205,58 +205,58 @@ plt.show()
 ## Output:
 i) Original image
 
-<img width="518" height="527" alt="image" src="https://github.com/user-attachments/assets/70f24eb8-38bf-4b76-b6bd-2eadba3912aa" />
+<img width="428" height="447" alt="image" src="https://github.com/user-attachments/assets/872ecde4-7ac7-4657-9ac5-8a0ecb797bed" />
 
 
 ii) Image with line , circle, rectangle, text.
 
-<img width="503" height="507" alt="image" src="https://github.com/user-attachments/assets/5ac3aa99-9f28-45b1-a75b-c08c11bf0cfa" />
+<img width="432" height="452" alt="image" src="https://github.com/user-attachments/assets/3ff086b4-a555-4844-afa2-5a472431a1e3" />
 
 
-<img width="493" height="516" alt="image" src="https://github.com/user-attachments/assets/24a2523d-ea44-4712-877c-1878385924dd" />
+<img width="437" height="462" alt="image" src="https://github.com/user-attachments/assets/658be4fa-b576-422e-ba9e-bd5d058f8a27" />
 
 
-<img width="497" height="515" alt="image" src="https://github.com/user-attachments/assets/57ebfda4-a54e-4f42-8da4-2962457bccd4" />
+<img width="435" height="460" alt="image" src="https://github.com/user-attachments/assets/da7f30dc-dcf1-484f-a8bb-63e6cd3c4910" />
 
 
-<img width="502" height="520" alt="image" src="https://github.com/user-attachments/assets/b06e323a-6979-44cd-9202-1d5647781eda" />
+<img width="432" height="457" alt="image" src="https://github.com/user-attachments/assets/f9e54eb6-b05d-42b7-87a5-fe816e63d9fe" />
 
 
 iii) Image - HSV , Grayscale , YCeCb and HSV to RGB . 
 
-<img width="518" height="522" alt="image" src="https://github.com/user-attachments/assets/fb98fad7-75d8-494a-90c5-1869971ef830" />
+<img width="432" height="450" alt="image" src="https://github.com/user-attachments/assets/4fa794a8-89f4-4044-afb6-e2269ac9b970" />
 
 
-<img width="517" height="515" alt="image" src="https://github.com/user-attachments/assets/ece7c12a-4ff2-49df-b23a-10b276084318" />
+<img width="437" height="446" alt="image" src="https://github.com/user-attachments/assets/32d0bf6a-a213-4d03-9c9e-89337264f1ea" />
 
 
-<img width="502" height="521" alt="image" src="https://github.com/user-attachments/assets/c55780f4-fc00-4b34-baae-8b8f4a7759d9" />
+<img width="417" height="456" alt="image" src="https://github.com/user-attachments/assets/ef82a0b8-c8d4-4359-a95d-c03e88c3d13a" />
 
 
-<img width="523" height="515" alt="image" src="https://github.com/user-attachments/assets/68468209-393b-41bd-86fa-b02b5020d8d8" />
+<img width="433" height="453" alt="image" src="https://github.com/user-attachments/assets/549b5c1e-23eb-459f-b91e-f232c7ee2c07" />
 
 
-<img width="507" height="521" alt="image" src="https://github.com/user-attachments/assets/8a8caccd-4d6e-4fbc-9a77-2ae7fb68f499" />
+<img width="430" height="457" alt="image" src="https://github.com/user-attachments/assets/c7242e08-8bb0-430d-ada2-2b02da2f5b6b" />
 
 
 
 iv) Image with block .
 
-<img width="531" height="521" alt="image" src="https://github.com/user-attachments/assets/b5f7889d-223a-494a-9dba-3055c93bd28b" />
+<img width="440" height="458" alt="image" src="https://github.com/user-attachments/assets/ad4cab9d-5df7-400a-b6f9-c2f3e737d4b1" />
 
 
 v) Image - Resized Image (Half Size) , Cropped Region of Interest (ROI),Flipped Horizontally ,Flipped Vertically 
 
-<img width="672" height="522" alt="image" src="https://github.com/user-attachments/assets/583bb558-cd09-4592-98bd-7695869604d9" />
+<img width="565" height="462" alt="image" src="https://github.com/user-attachments/assets/e6a8481e-2f5e-4c94-8b87-0402b618d238" />
 
 
-<img width="515" height="508" alt="image" src="https://github.com/user-attachments/assets/019ac75f-0585-4100-b674-abf8fc6b9106" />
+<img width="438" height="458" alt="image" src="https://github.com/user-attachments/assets/5927fd7e-0432-465c-a62a-bfe1369fc32a" />
 
 
-<img width="536" height="517" alt="image" src="https://github.com/user-attachments/assets/953e2d38-f629-4c2d-a36b-193f5b4fc9e5" />
+<img width="437" height="466" alt="image" src="https://github.com/user-attachments/assets/81bcbb99-1860-4cb5-bb2c-46822233f7a8" />
 
 
-<img width="527" height="513" alt="image" src="https://github.com/user-attachments/assets/cbcd2ea7-96d4-47ca-8260-21e99564084e" />
+<img width="433" height="455" alt="image" src="https://github.com/user-attachments/assets/4324b721-fcb6-4663-b82f-56d114080366" />
 
 
 
